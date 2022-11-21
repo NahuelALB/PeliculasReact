@@ -1,0 +1,42 @@
+.tarjetaPelicula {
+    list-style: none;
+    font-size: 30px;
+    background-color: beige ;
+}
+
+.imagenPelicula {
+    border-radius: 60px;
+    background-color: gray;
+}
+
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.description {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.category {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: rgb(43, 39, 39);
+    letter-spacing: 3px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+.btn:hover{
+    background: #a945c7;
+    box-shadow: 0 0 10px #a945c7, 0 0 40px #a945c7, 0 0 80px #a945c7;
+    transition-delay: 1s;
+}

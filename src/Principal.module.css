@@ -1,0 +1,6 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0 0 10px rgb(165, 157, 157), 0 0 20px #fff, 0 0 30px #0400e6, 0 0 40px #e60073,
+    0 0 50px #0ddfee, 0 0 60px #b82222, 0 0 70px #7700e6;
+}
